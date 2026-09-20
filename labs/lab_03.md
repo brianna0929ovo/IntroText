@@ -17,6 +17,7 @@
 
 ## Get your assignment repository
 - Follow the [email bot instructions](email_bot.md) to get your new repository link from the bot.
+- Note that the response email will contain links to **both labs** - lab 2 from previous week and lab 3. Make sure to pick the link for the lab you want to work on.
 
 ## Complete the assignment in your new repository
 - In your new repository, edit the `README.md` file by clicking the edit button (looks like a pencil).
