@@ -1,7 +1,55 @@
 # IntroText
 GBC COMP-1238 Course - Intro to Data Management.
 
+GBC Email: brianna.wang@georgebrown.ca
+
 See the [summaries/](/summaries/) folder for lecture note summaries by week.
+
+## Number Row Characters
+
+- ! - Exclamation mark
+- @ - At sign
+- \# - Hash, Pound, Number sign
+- $ - Dollar sign
+- % - Percent sign
+- ^ - Caret
+- & - Ampersand, And sign
+- \* - Asterisk, Star
+- ( - Left parenthesis, Open parenthesis
+- ) - Right parenthesis, Close parenthesis
+
+## Links
+
+- [GitHub](https://github.com/brianna0929ovo)
+- [Markdown Guide](https://www.markdownguide.org/)
+- [W3Schools](https://www.w3schools.com/)
+
+## Emojis
+
+- :smile: 😄
+- :heart: ❤️
+- :computer: 💻
+
+## Images
+
+![Random Image](https://picsum.photos/320)
+
+## Checklist
+
+- [x] Edit my README
+- [x] Add an image
+- [ ] Complete COMP1238 Lab 3
+
+## ASCII Art
+
+```
+ ____  ____  ___    _    _   _ _   _    _    
+| __ )|  _ \|_ _|  / \  | \ | | \ | |  / \   
+|  _ \| |_) || |  / _ \ |  \| |  \| | / _ \  
+| |_) |  _ < | | / ___ \| |\  | |\  |/ ___ \ 
+|____/|_| \_\___/_/   \_\_| \_|_| \_/_/   \_\
+```
+
 
 
 # Videos and links by subject
